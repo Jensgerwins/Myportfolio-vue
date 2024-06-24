@@ -3,7 +3,7 @@
     <div class="nav-bar">
       <nav>
         <img src="@/assets/html.svg" alt="" class="bild" />
-        <a href=".home-page" class="nav-bar-a">Home</a>
+        <a href=".home-page-p" class="nav-bar-a">Home</a>
         <a href="#me" class="nav-bar-a">Übermich</a>
         <a href="#lebenslauf" class="nav-bar-a">Lebenslauf</a>
         <a href="#projekte" class="nav-bar-a">Projekte</a>
